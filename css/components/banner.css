@@ -1,0 +1,25 @@
+.banner {
+    background-image: url("https://media.alienwarearena.com/media/1efc6b1d583e0ef872b89972a0b7ee33.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 290px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+.banner h1 {
+    margin: 0px;
+    padding-bottom: 24px;
+    text-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+.banner p {
+    margin: 0px;
+    padding-bottom: 32px;
+    text-shadow: 0 0 15px rgba(0,0,0,1);
+}
+
+.banner a {
+    margin: 0px;
+}

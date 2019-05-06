@@ -1,0 +1,28 @@
+.card {
+    color: white;
+    background-color: #1f4b94;
+    border-radius: 16px;
+    padding: 16px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.4);
+}
+
+.card img {
+    margin : 0 16px;
+    height: 120px;
+    width: 150px;
+}
+
+.card h3 {
+    text-align: center;
+}
+
+.card p {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 24px;
+}
